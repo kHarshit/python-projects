@@ -1,3 +1,5 @@
+import timeit
+
 def fibonacci(n):
     a, b = 1, 1
     for i in range(n-1):
@@ -45,7 +47,22 @@ d = {1:1, 2:1}
 
 
 n = int(input("Enter n to find nth fibonacci number: "))
+
+t0 = timeit.default_timer()
 print("fibonacci num:", fibonacci(n))
+t1 = timeit.default_timer()
+print(t1 - t0, "\n")
+
 # print("fibonacci num:", fib_generator(n), ", numFibCalls:", )
+
+t2 = timeit.default_timer()
 print("fibonacci num:", fibonacci_rec(n), ", numFibCalls_rec:", numFibCalls_rec)
+t3 = timeit.default_timer()
+print(t3 - t2, "\n")
+
+t4 = timeit.default_timer()
 print("fibonacci num:", fib_memoization(n, d), ", numFibCalls_memoize:", numFibCalls_memoize)
+t5 = timeit.default_timer()
+print(t5 - t4)
+
+# Thus, the best algorithm to calculate fibonacci number is memoization.

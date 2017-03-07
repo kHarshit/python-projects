@@ -1,3 +1,5 @@
+import timeit
+
 def pythagorean_triplets(n):
     """Note that this algorithm is not efficient"""
     for x in range(n):
@@ -16,7 +18,7 @@ def pythagorean_triplets_eff(n):
                 print(x, y, z)
 
 def pythagorean_triplets_efficient(n):
-    """It is an efficient algorithm to fing pythagorean triplets"""
+    """It is an efficient algorithm to find pythagorean triplets"""
     for x in range(1, n):
         y = x + 1
         z = y + 1
@@ -29,8 +31,18 @@ def pythagorean_triplets_efficient(n):
 
 
 n = int(input("Enter n to print pythagorean triplets upto n: "))
+
+t0 = timeit.default_timer()
 pythagorean_triplets(n)
-print()
+t1 = timeit.default_timer()
+print("\n", t1 - t0)
+
+t2 = timeit.default_timer()
 pythagorean_triplets_eff(n)
-print()
+t3 = timeit.default_timer()
+print("\n", t3 - t2)
+
+t4 = timeit.default_timer()
 pythagorean_triplets_efficient(n)
+t5 = timeit.default_timer()
+print(t5 - t4)
