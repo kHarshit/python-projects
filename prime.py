@@ -22,8 +22,10 @@ def primes_by_seive(n):
                 sieve[i] = False
     return out
 
-print(is_prime(11))
-print(primes_by_seive(11))
+
+n = int(input("Enter a no to check if it is prime and to print primes upto that no: "))
+print(is_prime(n))
+print(primes_by_seive(n))
 
 
 def primes_by_rabin_miller(n):

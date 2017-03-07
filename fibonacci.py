@@ -44,8 +44,8 @@ def fib_memoization(n, dict):
 d = {1:1, 2:1}
 
 
-
-print("fibonacci num:", fibonacci(16))
-# print("fibonacci num:", fib_generator(16), ", numFibCalls:", )
-print("fibonacci num:", fibonacci_rec(16), ", numFibCalls_rec:", numFibCalls_rec)
-print("fibonacci num:", fib_memoization(16, d), ", numFibCalls_memoize:", numFibCalls_memoize)
+n = int(input("Enter n to find nth fibonacci number: "))
+print("fibonacci num:", fibonacci(n))
+# print("fibonacci num:", fib_generator(n), ", numFibCalls:", )
+print("fibonacci num:", fibonacci_rec(n), ", numFibCalls_rec:", numFibCalls_rec)
+print("fibonacci num:", fib_memoization(n, d), ", numFibCalls_memoize:", numFibCalls_memoize)

@@ -28,9 +28,9 @@ def pythagorean_triplets_efficient(n):
             y += 1
 
 
-
-pythagorean_triplets(30)
+n = int(input("Enter n to print pythagorean triplets upto n: "))
+pythagorean_triplets(n)
 print()
-pythagorean_triplets_eff(30)
+pythagorean_triplets_eff(n)
 print()
-pythagorean_triplets_efficient(30)
+pythagorean_triplets_efficient(n)
