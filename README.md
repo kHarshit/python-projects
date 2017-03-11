@@ -10,5 +10,9 @@ The project involves following problems:
 4. To print fibonacci sequence.
 5. To print collatz (3n+1) sequence.
 6. To make a simple quiz.
-7. IN production...
-
+7. To draw a simple image in Terminal using binary no.
+8. To retrieve data from International Space Station.
+9. To implement caesar cipher.
+10. To solve eight queens puzzle.
+11. To solve tower of hanoi problem.
+12. IN production...
