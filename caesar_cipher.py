@@ -26,3 +26,16 @@ text = input("Enter the text you want to encrypt: ")
 key = int(input("Enter the shift: "))
 print(caesar(text, key))
 
+
+# To decrypt Caesar Cipher:
+# // code //
+
+# To implement Caesar Cipher using:
+# Given x is the current letters index in regards to our alphabet and n is the rotation:
+# E(x) = (x + n) % 26  # encryption
+# D(x) = (x - n) % 26  # decryption
+# // code //
+
+
+# To brute force Caesar Cipher:
+# // code //
