@@ -17,4 +17,6 @@ The project involves following problems:
 11. To solve tower of hanoi problem.
 12. To send an email.
 13. To write your own web server.
-14. IN produciton...
+14. To guess a number.
+15. To calculate square root using Newton's method.
+16. IN production...
