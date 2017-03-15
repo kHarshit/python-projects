@@ -1,6 +1,7 @@
 import timeit
 
 def fibonacci(n):
+    """iterative fibonacci has linear complexity: O(n)"""
     a, b = 1, 1
     for i in range(n-1):
         # print(a, end=' ')
@@ -22,7 +23,7 @@ def fibonacci(n):
 
 numFibCalls_rec = 0
 def fibonacci_rec(n):
-    """This algorithm is inefficient because it recalculates the same value many times"""
+    """This algorithm is inefficient:O(2^n); because it recalculates the same value many times"""
     global numFibCalls_rec
     numFibCalls_rec += 1
     if n == 1 or n == 2:
