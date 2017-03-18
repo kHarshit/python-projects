@@ -60,12 +60,16 @@ def encrypt(plain_text, shift):
 
     return cipher_text
 
-print(encrypt("Kate2:L", 4))
-
-
-# To decrypt Caesar Cipher:
-# // code //
+# print(encrypt("Kate2:L", 4))
 
 
 # To brute force Caesar Cipher:
-# // code //
+def brute_force_caesar():
+    """Enter 'd' to decrypt and a random key when prompted!"""
+    for key in range(26):
+        print("Possibility: " + str(key+1) + ", Decrypted text: " + caesar(text, key))
+        key += 1
+
+if mode == 'd':
+    print("\nUsing brute force to decrypt caesar cipher...")
+    brute_force_caesar()
