@@ -13,11 +13,12 @@ The project involves following problems:
 7. To draw a simple image in Terminal using binary no.
 8. To retrieve data from International Space Station.
 9. To implement caesar cipher.
-10. To solve eight queens puzzle.
-11. To solve tower of hanoi problem.
-12. To send an email.*
-13. To write your own web server.
-14. To guess a number.
-15. To calculate square root using Newton's method.*
-16. To create subsets of a set (list). 
-17. *IN production...
+10. To implement vigenere cipher.*
+11. To solve eight queens puzzle.
+12. To solve tower of hanoi problem.
+13. To send an email.*
+14. To write your own web server.*
+15. To guess a number.
+16. To calculate square root using Newton's method.
+17. To create subsets of a set (list). 
+18. *IN production...
