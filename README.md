@@ -16,7 +16,7 @@ The project involves following problems:
 10. To implement vigenere cipher.*
 11. To solve eight queens puzzle.
 12. To solve tower of hanoi problem.
-13. To send an email.*
+13. To send an email.
 14. To write your own web server.*
 15. To guess a number.
 16. To calculate square root using Newton's method.
