@@ -21,4 +21,6 @@ The project involves following problems:
 15. To guess a number.
 16. To calculate square root using Newton's method.
 17. To create subsets of a set (list). 
-18. *IN production...
+18. To implement linear search.
+19. To implement bisection search.*
+20. *IN production...
