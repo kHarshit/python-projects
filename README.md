@@ -23,4 +23,6 @@ The project involves following problems:
 17. To create subsets of a set (list). 
 18. To implement linear search.
 19. To implement bisection search.*
-20. *IN production...
+20. To calculate gcd by the Euclidean algorithm.
+21. To implement exponentiation by squaring.*
+22. *IN production...
