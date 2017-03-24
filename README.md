@@ -7,7 +7,7 @@ The project involves following problems:
 1. To check if a string is a palindrome.
 2. To check if a number is prime.
 3. To print pythagorean triplets.
-4. To find the factorial of a no.*
+4. To find the factorial of a no.
 5. To print fibonacci sequence.
 6. To print collatz (3n+1) sequence.
 7. To make a simple quiz.
