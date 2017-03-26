@@ -25,5 +25,5 @@ The project involves following problems:
 19. To implement linear search.
 20. To implement bisection search.
 21. To calculate gcd by the Euclidean algorithm.
-22. To implement exponentiation by squaring.*
+22. To implement exponentiation by squaring.
 23. *IN production...
