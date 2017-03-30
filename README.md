@@ -26,7 +26,7 @@ The project involves following problems:
 20. To implement bisection search.
 21. To implement selection sort.
 22. To implement bubble sort.
-23. To implement merge sort.*
+23. To implement merge sort.
 24. To calculate gcd by the Euclidean algorithm.
 25. To implement exponentiation by squaring.
 26. *IN production...
