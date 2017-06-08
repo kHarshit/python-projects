@@ -22,11 +22,18 @@ The project involves following problems:
 16. To guess a number.
 17. To calculate square root using Newton's method.
 18. To create subsets of a set (list). 
-19. To implement linear search.
-20. To implement bisection search.
-21. To implement selection sort.
-22. To implement bubble sort.
-23. To implement merge sort.
-24. To calculate gcd by the Euclidean algorithm.
-25. To implement exponentiation by squaring.
-26. *IN production...
+19. To calculate gcd by the Euclidean algorithm.
+20. To implement exponentiation by squaring.
+
+
+21. To implement linear search.
+22. To implement bisection search.
+
+
+23. To implement insertion sort.
+24. To implement selection sort.
+25. To implement bubble sort.
+26. To implement merge sort.
+
+
+27. *IN production...
