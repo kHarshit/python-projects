@@ -34,6 +34,7 @@ The project involves following problems:
 24. To implement selection sort.
 25. To implement bubble sort.
 26. To implement merge sort.
+27. To implement quick sort.
 
 
-27. *IN production...
+28. *IN production...
