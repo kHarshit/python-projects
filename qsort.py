@@ -43,7 +43,7 @@ def qsort(A, l, r):
 
 
 def sort(A):
-    qsort(A, 0, len(A)-1)
+    qsort(A, 0, len(A))
 
 print("QUICKSORT:")
 list_in = [54, 26, 93, 17, 77, 31, 44, 55, 20]
@@ -93,7 +93,7 @@ def random_qsort(A, l, r):
 
 
 def random_sort(A):
-    random_qsort(A, 0, len(A)-1)
+    random_qsort(A, 0, len(A))
 
 print("RANDOMIZED-QUIKSORT:")
 list_in_rand = [54, 26, 93, 17, 77, 31, 44, 55, 20]
