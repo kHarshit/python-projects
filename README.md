@@ -2,7 +2,7 @@
 A craft cannot be learned by reading alone; practice is also necessary.
 
 
-The project involves following problems:
+The project contains following problems:
 
 1. To check if a string is a palindrome.
 2. To check if a number is prime.
@@ -17,24 +17,24 @@ The project involves following problems:
 11. To implement vigenere cipher.*
 12. To solve eight queens puzzle.
 13. To solve tower of hanoi problem.
-14. To send an email.
+14. Send an email from within python console.
 15. To write your own web server.*
 16. To guess a number.
 17. To calculate square root using Newton's method.
 18. To create subsets of a set (list). 
 19. To calculate gcd by the Euclidean algorithm.
 20. To implement exponentiation by squaring.
+21. A simple typing test
 
 
-21. To implement linear search.
-22. To implement bisection search.
+22. To implement linear search.
+23. To implement bisection search.
 
 
-23. To implement insertion sort.
-24. To implement selection sort.
-25. To implement bubble sort.
-26. To implement merge sort.
-27. To implement quick sort.
+24. To implement insertion sort.
+25. To implement selection sort.
+26. To implement bubble sort.
+27. To implement merge sort.
+28. To implement quick sort.
 
-
-28. *IN production...
+*IN production...
