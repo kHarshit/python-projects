@@ -19,22 +19,23 @@ The project contains following problems:
 13. To solve tower of hanoi problem.
 14. Send an email from within python console.
 15. To write your own web server.*
-16. To guess a number.
-17. To calculate square root using Newton's method.
-18. To create subsets of a set (list). 
-19. To calculate gcd by the Euclidean algorithm.
-20. To implement exponentiation by squaring.
-21. A simple typing test
+16. To use a database with Python.
+17. To guess a number.
+18. To calculate square root using Newton's method.
+19. To create subsets of a set (list). 
+20. To calculate gcd by the Euclidean algorithm.
+21. To implement exponentiation by squaring.
+22. A simple typing test
 
 
-22. To implement linear search.
-23. To implement bisection search.
+23. To implement linear search.
+24. To implement bisection search.
 
 
-24. To implement insertion sort.
-25. To implement selection sort.
-26. To implement bubble sort.
-27. To implement merge sort.
-28. To implement quick sort.
+25. To implement insertion sort.
+26. To implement selection sort.
+27. To implement bubble sort.
+28. To implement merge sort.
+29. To implement quick sort.
 
 *IN production...
