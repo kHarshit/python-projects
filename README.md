@@ -38,6 +38,9 @@ The project contains following problems:
 28. To implement merge sort.
 29. To implement quick sort.
 
+30. To implement breadth-first search.
+31. To implement depth-first search.
+
 *IN production...
 
 Note: Most of the above programs can be run directly from the command line.
