@@ -41,6 +41,8 @@ The project contains following problems:
 30. To implement breadth-first search.
 31. To implement depth-first search.
 
+32. To implement a stack.
+
 *IN production...
 
 Note: Most of the above programs can be run directly from the command line.
