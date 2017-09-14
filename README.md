@@ -42,6 +42,7 @@ The project contains following problems:
 31. To implement depth-first search.
 
 32. To implement a stack.
+33. To implement heap.
 
 *IN production...
 
