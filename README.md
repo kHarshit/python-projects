@@ -43,6 +43,7 @@ The project contains following problems:
 
 32. To implement a stack.
 33. To implement heap.
+34. To implement binary search tree.
 
 *IN production...
 
